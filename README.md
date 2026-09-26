@@ -22,7 +22,7 @@
 - Networking Basics
 
 ## My Repos
-- [90DaysOfDevOps](https://github.com/Vrushali-1971/90DaysOfDevOps) - Documentation and hands-on tasks
+- [90DaysOfDevOps](https://github.com/Vrushali-1971/90DaysOfDevOps/2026) - Documentation and hands-on tasks
 - [devops-git-practice](https://github.com/Vrushali-1971/devops-git-practice) - Git and GitHub hands-on practice
 - [github-actions-practice](https://github.com/Vrushali-1971/github-actions-practice) - GitHub actions hands-on practice
 - [Shell-Scripts](https://github.com/Vrushali-1971/Shell-Scripts) - Shell Scripts hands-on practice
